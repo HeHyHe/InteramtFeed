@@ -3,17 +3,22 @@ name: INTERAMT Feed
 on:
   workflow_dispatch:
   schedule:
-    # 06:15 UTC = 07:15 Berlin im Winter, 08:15 im Sommer
-    # Damit ist der Feed vor dem 08:30-Jobcheck aktuell.
-    - cron: '15 6 * * *'
+    # 05:45 UTC = 06:45 Uhr Berlin im Winter, 07:45 Uhr im Sommer
+    - cron: '45 5 * * *'
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 jobs:
   update-feed:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
       - name: Repository laden
@@ -183,8 +188,25 @@ jobs:
 
           if git diff --cached --quiet; then
             echo "Keine Änderung."
-            exit 0
+          else
+            git commit -m "Update INTERAMT feed"
+            git push
           fi
 
-          git commit -m "Update INTERAMT feed"
-          git push
+      - name: Pages-Dateien vorbereiten
+        run: |
+          mkdir -p _site
+          cp feed.json _site/feed.json
+          cp feed.md _site/feed.md
+
+      - name: GitHub Pages konfigurieren
+        uses: actions/configure-pages@v5
+
+      - name: Pages hochladen
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: '_site'
+
+      - name: GitHub Pages veröffentlichen
+        id: deployment
+        uses: actions/deploy-pages@v4
