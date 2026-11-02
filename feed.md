@@ -1,8 +1,18 @@
 # INTERAMT Feed
 
-Letzte Aktualisierung: 2026-11-01T12:04:10.706Z
+Letzte Aktualisierung: 2026-11-02T13:52:53.864Z
 
 Sichtbare Treffer: 10
+
+## 1508252 – Akademische/-r Mitarbeiter/-in (w/m/d) Koordination des Kompetenzzentrums Überfachliches Lernen und Berufsorientierung Kenn-Nr. 384/2026
+
+- Arbeitgeber: Universität Potsdam
+- Besoldung: 
+- Entgelt: TV-L E 13
+- Ort: 14476 Potsdam
+- Arbeitsort: Hybrid
+- Eingestellt: 02.11.2026
+- Frist: 30.11.2026
 
 ## 1507467 – Leitung der Arbeitsgruppe - ordnungsrechtliche Unterbringung für die Fachstelle Soziale Wohnhilfe (m/w/d)
 
@@ -93,14 +103,4 @@ Sichtbare Treffer: 10
 - Arbeitsort: Hybrid
 - Eingestellt: 23.10.2026
 - Frist: 15.11.2026
-
-## 1505053 – eine Referentin / einen Referenten (m/w/d) - befristet -
-
-- Arbeitgeber: Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend
-- Besoldung: 
-- Entgelt: TVöD-Bund E 13
-- Ort: 10117 Berlin
-- Arbeitsort: Hybrid
-- Eingestellt: 22.10.2026
-- Frist: 01.11.2026
 
