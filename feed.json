@@ -5,9 +5,35 @@
     "radius_km": 50,
     "query": "(soziologie OR sozialwissenschaft OR sozialwissenschaften OR sozialwissenschaftliches OR medienwissenschaft OR medienwissenschaften OR Kommunikationswissenschaften OR Kommunikationswissenschaft OR Kommunikationswissenschaftliches OR kommunikationswissenschaften OR \"public health\") OR \"sozial- oder wirtschaftswissenschaftliches\""
   },
-  "generated_at": "2026-11-02T13:52:53.864Z",
+  "generated_at": "2026-11-03T13:02:41.838Z",
   "visible_results": 10,
   "jobs": [
+    {
+      "id": "1508731",
+      "employer": "Berufsgenossenschaft Handel und Warenlogistik",
+      "title": "Studierende für den dualen Bachelorstudiengang (B.A.) gesetzliche Unfallversicherung - Recht, Rehabilitation und Verwaltung - Abteilung Reha und Leist",
+      "grade": "",
+      "pay": "",
+      "location": "10715 Berlin",
+      "distance": "7 km",
+      "workplace": "Vor Ort",
+      "posted": "03.11.2026",
+      "deadline": "31.12.2026",
+      "row_text": "1508731 Stellenausschreibung öffnen | Berufsgenossenschaft Handel und Warenlogistik | Studierende für den dualen Bachelorstudiengang (B.A.) gesetzliche Unfallversicherung - Recht, Rehabilitation und Verwaltung - Abteilung Reha und Leist |  |  | 10715 Berlin | 7 km | Vor Ort | 03.11.2026 | 31.12.2026"
+    },
+    {
+      "id": "1508720",
+      "employer": "Bezirksamt Spandau von Berlin",
+      "title": "Werkstudent*in Fortbildung in der Erwachsenenbildung",
+      "grade": "",
+      "pay": "TV-L E 3",
+      "location": "13597 Berlin",
+      "distance": "15 km",
+      "workplace": "Hybrid",
+      "posted": "03.11.2026",
+      "deadline": "24.11.2026",
+      "row_text": "1508720 Stellenausschreibung öffnen | Bezirksamt Spandau von Berlin | Werkstudent*in Fortbildung in der Erwachsenenbildung |  | TV-L E 3 | 13597 Berlin | 15 km | Hybrid | 03.11.2026 | 24.11.2026"
+    },
     {
       "id": "1508252",
       "employer": "Universität Potsdam",
@@ -111,32 +137,6 @@
       "posted": "23.10.2026",
       "deadline": "30.11.2026",
       "row_text": "1505669 Stellenausschreibung öffnen | Deutsches Institut für Menschenrechte | Ko-Abteilungsleiter*in Monitoring-Stelle UN-Behindertenrechtskonvention |  | TVöD-Bund E 14 | 10969 Berlin | 0 km | Hybrid | 23.10.2026 | 30.11.2026"
-    },
-    {
-      "id": "1505548",
-      "employer": "Brandenburgischer Landesbetrieb für Liegenschaften und Bauen (BLB)",
-      "title": "Sachbearbeiter/-in strategisches Controlling",
-      "grade": "",
-      "pay": "TV-L E 11",
-      "location": "14478 Potsdam",
-      "distance": "26 km",
-      "workplace": "Hybrid",
-      "posted": "24.10.2026",
-      "deadline": "22.11.2026",
-      "row_text": "1505548 Stellenausschreibung öffnen | Brandenburgischer Landesbetrieb für Liegenschaften und Bauen (BLB) | Sachbearbeiter/-in strategisches Controlling |  | TV-L E 11 | 14478 Potsdam | 26 km | Hybrid | 24.10.2026 | 22.11.2026"
-    },
-    {
-      "id": "1505219",
-      "employer": "Robert Koch-Institut",
-      "title": "Doktorandin / Doktorand Psychische - Resilienz angesichts gesellschaftlicher Krisen (ReAGen) (d/m/w)",
-      "grade": "",
-      "pay": "TVöD-Bund E 13",
-      "location": "13347 Berlin",
-      "distance": "7 km",
-      "workplace": "Hybrid",
-      "posted": "23.10.2026",
-      "deadline": "15.11.2026",
-      "row_text": "1505219 Stellenausschreibung öffnen | Robert Koch-Institut | Doktorandin / Doktorand Psychische - Resilienz angesichts gesellschaftlicher Krisen (ReAGen) (d/m/w) |  | TVöD-Bund E 13 | 13347 Berlin | 7 km | Hybrid | 23.10.2026 | 15.11.2026"
     }
   ]
 }

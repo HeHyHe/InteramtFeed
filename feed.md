@@ -1,8 +1,28 @@
 # INTERAMT Feed
 
-Letzte Aktualisierung: 2026-11-02T13:52:53.864Z
+Letzte Aktualisierung: 2026-11-03T13:02:41.838Z
 
 Sichtbare Treffer: 10
+
+## 1508731 – Studierende für den dualen Bachelorstudiengang (B.A.) gesetzliche Unfallversicherung - Recht, Rehabilitation und Verwaltung - Abteilung Reha und Leist
+
+- Arbeitgeber: Berufsgenossenschaft Handel und Warenlogistik
+- Besoldung: 
+- Entgelt: 
+- Ort: 10715 Berlin
+- Arbeitsort: Vor Ort
+- Eingestellt: 03.11.2026
+- Frist: 31.12.2026
+
+## 1508720 – Werkstudent*in Fortbildung in der Erwachsenenbildung
+
+- Arbeitgeber: Bezirksamt Spandau von Berlin
+- Besoldung: 
+- Entgelt: TV-L E 3
+- Ort: 13597 Berlin
+- Arbeitsort: Hybrid
+- Eingestellt: 03.11.2026
+- Frist: 24.11.2026
 
 ## 1508252 – Akademische/-r Mitarbeiter/-in (w/m/d) Koordination des Kompetenzzentrums Überfachliches Lernen und Berufsorientierung Kenn-Nr. 384/2026
 
@@ -83,24 +103,4 @@ Sichtbare Treffer: 10
 - Arbeitsort: Hybrid
 - Eingestellt: 23.10.2026
 - Frist: 30.11.2026
-
-## 1505548 – Sachbearbeiter/-in strategisches Controlling
-
-- Arbeitgeber: Brandenburgischer Landesbetrieb für Liegenschaften und Bauen (BLB)
-- Besoldung: 
-- Entgelt: TV-L E 11
-- Ort: 14478 Potsdam
-- Arbeitsort: Hybrid
-- Eingestellt: 24.10.2026
-- Frist: 22.11.2026
-
-## 1505219 – Doktorandin / Doktorand Psychische - Resilienz angesichts gesellschaftlicher Krisen (ReAGen) (d/m/w)
-
-- Arbeitgeber: Robert Koch-Institut
-- Besoldung: 
-- Entgelt: TVöD-Bund E 13
-- Ort: 13347 Berlin
-- Arbeitsort: Hybrid
-- Eingestellt: 23.10.2026
-- Frist: 15.11.2026
 
