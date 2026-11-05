@@ -1,8 +1,38 @@
 # INTERAMT Feed
 
-Letzte Aktualisierung: 2026-11-04T13:18:03.841Z
+Letzte Aktualisierung: 2026-11-05T13:31:17.776Z
 
 Sichtbare Treffer: 10
+
+## 1509667 – Transformationsmanager*in
+
+- Arbeitgeber: IT-Dienstleistungszentrum Berlin
+- Besoldung: 
+- Entgelt: TV-ITDZ Berlin E 12
+- Ort: 10713 Berlin
+- Arbeitsort: Hybrid
+- Eingestellt: 05.11.2026
+- Frist: 19.11.2026
+
+## 1509389 – Werkstudierende (m/w/d)
+
+- Arbeitgeber: Die Verwaltung des Abgeordnetenhauses von Berlin
+- Besoldung: 
+- Entgelt: TV-L E 4 - TV-L E 6
+- Ort: 10117 Berlin
+- Arbeitsort: Hybrid
+- Eingestellt: 05.11.2026
+- Frist: 26.11.2026
+
+## 1509355 – Zwei Werkstudentinnen / Werkstudenten (m/w/d) Social Media
+
+- Arbeitgeber: Bundesministerium für Verkehr
+- Besoldung: A9g - A13
+- Entgelt: TVÖD-9 - TVÖD-13
+- Ort: 10115 Berlin
+- Arbeitsort: 
+- Eingestellt: 21.10.2026
+- Frist: 12.11.2026
 
 ## 1508731 – Studierende für den dualen Bachelorstudiengang (B.A.) gesetzliche Unfallversicherung - Recht, Rehabilitation und Verwaltung - Abteilung Reha und Leist
 
@@ -73,34 +103,4 @@ Sichtbare Treffer: 10
 - Arbeitsort: Hybrid
 - Eingestellt: 28.10.2026
 - Frist: 19.11.2026
-
-## 1506082 – Leitung des Referats IV D Veranstaltungsförderung und -services, Internationales und Sportstandortmarketing (w, m, d)
-
-- Arbeitgeber: Senatsverwaltung für Inneres und Sport
-- Besoldung: A16
-- Entgelt: AT 1
-- Ort: 10179 Berlin
-- Arbeitsort: Hybrid
-- Eingestellt: 30.10.2026
-- Frist: 19.11.2026
-
-## 1505728 – Koordination im Bildungsbereich (m/w/d)
-
-- Arbeitgeber: Dokumentationszentrum NS-Zwangsarbeit
-- Besoldung: 
-- Entgelt: TV-L E 9a
-- Ort: 12439 Berlin
-- Arbeitsort: Hybrid
-- Eingestellt: 23.10.2026
-- Frist: 24.11.2026
-
-## 1505669 – Ko-Abteilungsleiter*in Monitoring-Stelle UN-Behindertenrechtskonvention
-
-- Arbeitgeber: Deutsches Institut für Menschenrechte
-- Besoldung: 
-- Entgelt: TVöD-Bund E 14
-- Ort: 10969 Berlin
-- Arbeitsort: Hybrid
-- Eingestellt: 23.10.2026
-- Frist: 30.11.2026
 

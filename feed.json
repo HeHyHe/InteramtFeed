@@ -5,9 +5,48 @@
     "radius_km": 50,
     "query": "(soziologie OR sozialwissenschaft OR sozialwissenschaften OR sozialwissenschaftliches OR medienwissenschaft OR medienwissenschaften OR Kommunikationswissenschaften OR Kommunikationswissenschaft OR Kommunikationswissenschaftliches OR kommunikationswissenschaften OR \"public health\") OR \"sozial- oder wirtschaftswissenschaftliches\""
   },
-  "generated_at": "2026-11-04T13:18:03.841Z",
+  "generated_at": "2026-11-05T13:31:17.776Z",
   "visible_results": 10,
   "jobs": [
+    {
+      "id": "1509667",
+      "employer": "IT-Dienstleistungszentrum Berlin",
+      "title": "Transformationsmanager*in",
+      "grade": "",
+      "pay": "TV-ITDZ Berlin E 12",
+      "location": "10713 Berlin",
+      "distance": "7 km",
+      "workplace": "Hybrid",
+      "posted": "05.11.2026",
+      "deadline": "19.11.2026",
+      "row_text": "1509667 Stellenausschreibung öffnen | IT-Dienstleistungszentrum Berlin | Transformationsmanager*in |  | TV-ITDZ Berlin E 12 | 10713 Berlin | 7 km | Hybrid | 05.11.2026 | 19.11.2026"
+    },
+    {
+      "id": "1509389",
+      "employer": "Die Verwaltung des Abgeordnetenhauses von Berlin",
+      "title": "Werkstudierende (m/w/d)",
+      "grade": "",
+      "pay": "TV-L E 4 - TV-L E 6",
+      "location": "10117 Berlin",
+      "distance": "3 km",
+      "workplace": "Hybrid",
+      "posted": "05.11.2026",
+      "deadline": "26.11.2026",
+      "row_text": "1509389 Stellenausschreibung öffnen | Die Verwaltung des Abgeordnetenhauses von Berlin | Werkstudierende (m/w/d) |  | TV-L E 4 - TV-L E 6 | 10117 Berlin | 3 km | Hybrid | 05.11.2026 | 26.11.2026"
+    },
+    {
+      "id": "1509355",
+      "employer": "Bundesministerium für Verkehr",
+      "title": "Zwei Werkstudentinnen / Werkstudenten (m/w/d) Social Media",
+      "grade": "A9g - A13",
+      "pay": "TVÖD-9 - TVÖD-13",
+      "location": "10115 Berlin",
+      "distance": "3 km",
+      "workplace": "",
+      "posted": "21.10.2026",
+      "deadline": "12.11.2026",
+      "row_text": "1509355 Stellenausschreibung öffnen | Bundesministerium für Verkehr | Zwei Werkstudentinnen / Werkstudenten (m/w/d) Social Media | A9g - A13 | TVÖD-9 - TVÖD-13 | 10115 Berlin | 3 km |  | 21.10.2026 | 12.11.2026"
+    },
     {
       "id": "1508731",
       "employer": "Berufsgenossenschaft Handel und Warenlogistik",
@@ -98,45 +137,6 @@
       "posted": "28.10.2026",
       "deadline": "19.11.2026",
       "row_text": "1506872 Stellenausschreibung öffnen | Bezirksamt Spandau von Berlin | Leitung Kommunikation und Programm für die Stadtbibliothek (m/w/d) | A11 | TV-L E 10 | 13597 Berlin | 15 km | Hybrid | 28.10.2026 | 19.11.2026"
-    },
-    {
-      "id": "1506082",
-      "employer": "Senatsverwaltung für Inneres und Sport",
-      "title": "Leitung des Referats IV D Veranstaltungsförderung und -services, Internationales und Sportstandortmarketing (w, m, d)",
-      "grade": "A16",
-      "pay": "AT 1",
-      "location": "10179 Berlin",
-      "distance": "3 km",
-      "workplace": "Hybrid",
-      "posted": "30.10.2026",
-      "deadline": "19.11.2026",
-      "row_text": "1506082 Stellenausschreibung öffnen | Senatsverwaltung für Inneres und Sport | Leitung des Referats IV D Veranstaltungsförderung und -services, Internationales und Sportstandortmarketing (w, m, d) | A16 | AT 1 | 10179 Berlin | 3 km | Hybrid | 30.10.2026 | 19.11.2026"
-    },
-    {
-      "id": "1505728",
-      "employer": "Dokumentationszentrum NS-Zwangsarbeit",
-      "title": "Koordination im Bildungsbereich (m/w/d)",
-      "grade": "",
-      "pay": "TV-L E 9a",
-      "location": "12439 Berlin",
-      "distance": "9 km",
-      "workplace": "Hybrid",
-      "posted": "23.10.2026",
-      "deadline": "24.11.2026",
-      "row_text": "1505728 Stellenausschreibung öffnen | Dokumentationszentrum NS-Zwangsarbeit | Koordination im Bildungsbereich (m/w/d) |  | TV-L E 9a | 12439 Berlin | 9 km | Hybrid | 23.10.2026 | 24.11.2026"
-    },
-    {
-      "id": "1505669",
-      "employer": "Deutsches Institut für Menschenrechte",
-      "title": "Ko-Abteilungsleiter*in Monitoring-Stelle UN-Behindertenrechtskonvention",
-      "grade": "",
-      "pay": "TVöD-Bund E 14",
-      "location": "10969 Berlin",
-      "distance": "0 km",
-      "workplace": "Hybrid",
-      "posted": "23.10.2026",
-      "deadline": "30.11.2026",
-      "row_text": "1505669 Stellenausschreibung öffnen | Deutsches Institut für Menschenrechte | Ko-Abteilungsleiter*in Monitoring-Stelle UN-Behindertenrechtskonvention |  | TVöD-Bund E 14 | 10969 Berlin | 0 km | Hybrid | 23.10.2026 | 30.11.2026"
     }
   ]
 }
