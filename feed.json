@@ -5,9 +5,22 @@
     "radius_km": 50,
     "query": "(soziologie OR sozialwissenschaft OR sozialwissenschaften OR sozialwissenschaftliches OR medienwissenschaft OR medienwissenschaften OR Kommunikationswissenschaften OR Kommunikationswissenschaft OR Kommunikationswissenschaftliches OR kommunikationswissenschaften OR \"public health\") OR \"sozial- oder wirtschaftswissenschaftliches\""
   },
-  "generated_at": "2026-11-05T13:31:17.776Z",
+  "generated_at": "2026-11-06T13:18:05.700Z",
   "visible_results": 10,
   "jobs": [
+    {
+      "id": "1510060",
+      "employer": "Deutsche Gesetzliche Unfallversicherung e.V. (DGUV)",
+      "title": "Referent/Referentin (m/w/d) für Grundsatzfragen im Bereich Rehabilitation und Digitalisierung",
+      "grade": "",
+      "pay": "BG-AT E14",
+      "location": "10117 Berlin",
+      "distance": "3 km",
+      "workplace": "Hybrid",
+      "posted": "06.11.2026",
+      "deadline": "06.12.2026",
+      "row_text": "1510060 Stellenausschreibung öffnen | Deutsche Gesetzliche Unfallversicherung e.V. (DGUV) | Referent/Referentin (m/w/d) für Grundsatzfragen im Bereich Rehabilitation und Digitalisierung |  | BG-AT E14 | 10117 Berlin | 3 km | Hybrid | 06.11.2026 | 06.12.2026"
+    },
     {
       "id": "1509667",
       "employer": "IT-Dienstleistungszentrum Berlin",
@@ -124,19 +137,6 @@
       "posted": "28.10.2026",
       "deadline": "18.11.2026",
       "row_text": "1506879 Stellenausschreibung öffnen | Humboldt-Universität zu Berlin | Projektleitung Leadership-Programm für Professorinnen (m/w/d) |  | TV-L E 13 | 10117 Berlin | 3 km | Hybrid | 28.10.2026 | 18.11.2026"
-    },
-    {
-      "id": "1506872",
-      "employer": "Bezirksamt Spandau von Berlin",
-      "title": "Leitung Kommunikation und Programm für die Stadtbibliothek (m/w/d)",
-      "grade": "A11",
-      "pay": "TV-L E 10",
-      "location": "13597 Berlin",
-      "distance": "15 km",
-      "workplace": "Hybrid",
-      "posted": "28.10.2026",
-      "deadline": "19.11.2026",
-      "row_text": "1506872 Stellenausschreibung öffnen | Bezirksamt Spandau von Berlin | Leitung Kommunikation und Programm für die Stadtbibliothek (m/w/d) | A11 | TV-L E 10 | 13597 Berlin | 15 km | Hybrid | 28.10.2026 | 19.11.2026"
     }
   ]
 }

@@ -1,8 +1,18 @@
 # INTERAMT Feed
 
-Letzte Aktualisierung: 2026-11-05T13:31:17.776Z
+Letzte Aktualisierung: 2026-11-06T13:18:05.700Z
 
 Sichtbare Treffer: 10
+
+## 1510060 – Referent/Referentin (m/w/d) für Grundsatzfragen im Bereich Rehabilitation und Digitalisierung
+
+- Arbeitgeber: Deutsche Gesetzliche Unfallversicherung e.V. (DGUV)
+- Besoldung: 
+- Entgelt: BG-AT E14
+- Ort: 10117 Berlin
+- Arbeitsort: Hybrid
+- Eingestellt: 06.11.2026
+- Frist: 06.12.2026
 
 ## 1509667 – Transformationsmanager*in
 
@@ -93,14 +103,4 @@ Sichtbare Treffer: 10
 - Arbeitsort: Hybrid
 - Eingestellt: 28.10.2026
 - Frist: 18.11.2026
-
-## 1506872 – Leitung Kommunikation und Programm für die Stadtbibliothek (m/w/d)
-
-- Arbeitgeber: Bezirksamt Spandau von Berlin
-- Besoldung: A11
-- Entgelt: TV-L E 10
-- Ort: 13597 Berlin
-- Arbeitsort: Hybrid
-- Eingestellt: 28.10.2026
-- Frist: 19.11.2026
 
