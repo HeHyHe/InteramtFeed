@@ -1,8 +1,28 @@
 # INTERAMT Feed
 
-Letzte Aktualisierung: 2026-11-08T12:14:51.702Z
+Letzte Aktualisierung: 2026-11-09T14:24:57.839Z
 
 Sichtbare Treffer: 10
+
+## 1510631 – Sachbearbeiter/-in (m/w/d) Belegungssteuerung
+
+- Arbeitgeber: Landeshauptstadt Potsdam
+- Besoldung: 
+- Entgelt: TVöD-VKA E 9c
+- Ort: 14469 Potsdam
+- Arbeitsort: Hybrid
+- Eingestellt: 09.11.2026
+- Frist: 27.11.2026
+
+## 1510297 – Sachbearbeiterin Krisenstab & Krisenvorsorge (w/m/d)
+
+- Arbeitgeber: Die Autobahn GmbH des Bundes
+- Besoldung: 
+- Entgelt: TV-Autobahn E 9c
+- Ort: 10557 Berlin
+- Arbeitsort: Hybrid
+- Eingestellt: 09.11.2026
+- Frist: 23.11.2026
 
 ## 1510060 – Referent/Referentin (m/w/d) für Grundsatzfragen im Bereich Rehabilitation und Digitalisierung
 
@@ -83,24 +103,4 @@ Sichtbare Treffer: 10
 - Arbeitsort: Hybrid
 - Eingestellt: 29.10.2026
 - Frist: 12.11.2026
-
-## 1507112 – Trainee (m/w/d) für einen zweijährigen Einsatz im Regionalprogramm Politischer Dialog Südkaukasus (Armenien, Georgien), mit Sitz in Chisinau, Republik
-
-- Arbeitgeber: Konrad-Adenauer-Stiftung e.V.
-- Besoldung: 
-- Entgelt: Uni / Master
-- Ort: 10785 Berlin
-- Arbeitsort: Hybrid
-- Eingestellt: 29.10.2026
-- Frist: 12.11.2026
-
-## 1506879 – Projektleitung Leadership-Programm für Professorinnen (m/w/d)
-
-- Arbeitgeber: Humboldt-Universität zu Berlin
-- Besoldung: 
-- Entgelt: TV-L E 13
-- Ort: 10117 Berlin
-- Arbeitsort: Hybrid
-- Eingestellt: 28.10.2026
-- Frist: 18.11.2026
 

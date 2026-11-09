@@ -5,9 +5,35 @@
     "radius_km": 50,
     "query": "(soziologie OR sozialwissenschaft OR sozialwissenschaften OR sozialwissenschaftliches OR medienwissenschaft OR medienwissenschaften OR Kommunikationswissenschaften OR Kommunikationswissenschaft OR Kommunikationswissenschaftliches OR kommunikationswissenschaften OR \"public health\") OR \"sozial- oder wirtschaftswissenschaftliches\""
   },
-  "generated_at": "2026-11-08T12:14:51.702Z",
+  "generated_at": "2026-11-09T14:24:57.839Z",
   "visible_results": 10,
   "jobs": [
+    {
+      "id": "1510631",
+      "employer": "Landeshauptstadt Potsdam",
+      "title": "Sachbearbeiter/-in (m/w/d) Belegungssteuerung",
+      "grade": "",
+      "pay": "TVöD-VKA E 9c",
+      "location": "14469 Potsdam",
+      "distance": "26 km",
+      "workplace": "Hybrid",
+      "posted": "09.11.2026",
+      "deadline": "27.11.2026",
+      "row_text": "1510631 Stellenausschreibung öffnen | Landeshauptstadt Potsdam | Sachbearbeiter/-in (m/w/d) Belegungssteuerung |  | TVöD-VKA E 9c | 14469 Potsdam | 26 km | Hybrid | 09.11.2026 | 27.11.2026"
+    },
+    {
+      "id": "1510297",
+      "employer": "Die Autobahn GmbH des Bundes",
+      "title": "Sachbearbeiterin Krisenstab & Krisenvorsorge (w/m/d)",
+      "grade": "",
+      "pay": "TV-Autobahn E 9c",
+      "location": "10557 Berlin",
+      "distance": "6 km",
+      "workplace": "Hybrid",
+      "posted": "09.11.2026",
+      "deadline": "23.11.2026",
+      "row_text": "1510297 Stellenausschreibung öffnen | Die Autobahn GmbH des Bundes | Sachbearbeiterin Krisenstab & Krisenvorsorge (w/m/d) |  | TV-Autobahn E 9c | 10557 Berlin | 6 km | Hybrid | 09.11.2026 | 23.11.2026"
+    },
     {
       "id": "1510060",
       "employer": "Deutsche Gesetzliche Unfallversicherung e.V. (DGUV)",
@@ -111,32 +137,6 @@
       "posted": "29.10.2026",
       "deadline": "12.11.2026",
       "row_text": "1507467 Stellenausschreibung öffnen | Bezirksamt Mitte von Berlin | Leitung der Arbeitsgruppe - ordnungsrechtliche Unterbringung für die Fachstelle Soziale Wohnhilfe (m/w/d) | A11 | TV-L E 11 | 13353 Berlin | 7 km | Hybrid | 29.10.2026 | 12.11.2026"
-    },
-    {
-      "id": "1507112",
-      "employer": "Konrad-Adenauer-Stiftung e.V.",
-      "title": "Trainee (m/w/d) für einen zweijährigen Einsatz im Regionalprogramm Politischer Dialog Südkaukasus (Armenien, Georgien), mit Sitz in Chisinau, Republik",
-      "grade": "",
-      "pay": "Uni / Master",
-      "location": "10785 Berlin",
-      "distance": "4 km",
-      "workplace": "Hybrid",
-      "posted": "29.10.2026",
-      "deadline": "12.11.2026",
-      "row_text": "1507112 Stellenausschreibung öffnen | Konrad-Adenauer-Stiftung e.V. | Trainee (m/w/d) für einen zweijährigen Einsatz im Regionalprogramm Politischer Dialog Südkaukasus (Armenien, Georgien), mit Sitz in Chisinau, Republik |  | Uni / Master | 10785 Berlin | 4 km | Hybrid | 29.10.2026 | 12.11.2026"
-    },
-    {
-      "id": "1506879",
-      "employer": "Humboldt-Universität zu Berlin",
-      "title": "Projektleitung Leadership-Programm für Professorinnen (m/w/d)",
-      "grade": "",
-      "pay": "TV-L E 13",
-      "location": "10117 Berlin",
-      "distance": "3 km",
-      "workplace": "Hybrid",
-      "posted": "28.10.2026",
-      "deadline": "18.11.2026",
-      "row_text": "1506879 Stellenausschreibung öffnen | Humboldt-Universität zu Berlin | Projektleitung Leadership-Programm für Professorinnen (m/w/d) |  | TV-L E 13 | 10117 Berlin | 3 km | Hybrid | 28.10.2026 | 18.11.2026"
     }
   ]
 }
