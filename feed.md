@@ -1,8 +1,18 @@
 # INTERAMT Feed
 
-Letzte Aktualisierung: 2026-11-10T13:48:24.944Z
+Letzte Aktualisierung: 2026-11-11T12:59:10.530Z
 
 Sichtbare Treffer: 10
+
+## 1511119 – eine Referentin / ein Referent (w/m/d) im Referat L 5 Internet, Soziale Medien für eine befristete Einstellung in der 21. Legislaturperiode
+
+- Arbeitgeber: Bundesministerium des Innern
+- Besoldung: A13h - A14
+- Entgelt: TVöD-Bund E 13 - TVöD-Bund E 14
+- Ort: 10557 Berlin
+- Arbeitsort: Hybrid
+- Eingestellt: 11.11.2026
+- Frist: 02.12.2026
 
 ## 1510631 – Sachbearbeiter/-in (m/w/d) Belegungssteuerung
 
@@ -93,14 +103,4 @@ Sichtbare Treffer: 10
 - Arbeitsort: Hybrid
 - Eingestellt: 02.11.2026
 - Frist: 30.11.2026
-
-## 1507467 – Leitung der Arbeitsgruppe - ordnungsrechtliche Unterbringung für die Fachstelle Soziale Wohnhilfe (m/w/d)
-
-- Arbeitgeber: Bezirksamt Mitte von Berlin
-- Besoldung: A11
-- Entgelt: TV-L E 11
-- Ort: 13353 Berlin
-- Arbeitsort: Hybrid
-- Eingestellt: 29.10.2026
-- Frist: 12.11.2026
 
