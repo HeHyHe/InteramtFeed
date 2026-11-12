@@ -1,8 +1,38 @@
 # INTERAMT Feed
 
-Letzte Aktualisierung: 2026-11-11T12:59:10.530Z
+Letzte Aktualisierung: 2026-11-12T14:00:42.789Z
 
 Sichtbare Treffer: 10
+
+## 1511774 – Studentische Hilfskraft (d/m/w) im Veranstaltungsmanagement
+
+- Arbeitgeber: Stiftung Wissenschaft und Politik
+- Besoldung: 
+- Entgelt: TVöD-Bund E 2
+- Ort: 10719 Berlin
+- Arbeitsort: Hybrid
+- Eingestellt: 12.11.2026
+- Frist: 26.11.2026
+
+## 1511764 – eine:n Kommunikationsmanager:in als Elternzeitvertretung (d/w/m)
+
+- Arbeitgeber: Deutsche Kinder- und Jugendstiftung (DKJS) GmbH
+- Besoldung: 
+- Entgelt: TV-L E 11
+- Ort: 10963 Berlin
+- Arbeitsort: Hybrid
+- Eingestellt: 12.11.2026
+- Frist: 25.11.2026
+
+## 1511537 – Projektleiter/-in (m/w/d) ePayment
+
+- Arbeitgeber: Landeshauptstadt Potsdam
+- Besoldung: 
+- Entgelt: TVöD-VKA E 11
+- Ort: 14469 Potsdam
+- Arbeitsort: Vor Ort
+- Eingestellt: 12.11.2026
+- Frist: 09.12.2026
 
 ## 1511119 – eine Referentin / ein Referent (w/m/d) im Referat L 5 Internet, Soziale Medien für eine befristete Einstellung in der 21. Legislaturperiode
 
@@ -44,16 +74,6 @@ Sichtbare Treffer: 10
 - Eingestellt: 06.11.2026
 - Frist: 06.12.2026
 
-## 1509667 – Transformationsmanager*in
-
-- Arbeitgeber: IT-Dienstleistungszentrum Berlin
-- Besoldung: 
-- Entgelt: TV-ITDZ Berlin E 12
-- Ort: 10713 Berlin
-- Arbeitsort: Hybrid
-- Eingestellt: 05.11.2026
-- Frist: 19.11.2026
-
 ## 1509389 – Werkstudierende (m/w/d)
 
 - Arbeitgeber: Die Verwaltung des Abgeordnetenhauses von Berlin
@@ -83,24 +103,4 @@ Sichtbare Treffer: 10
 - Arbeitsort: Vor Ort
 - Eingestellt: 03.11.2026
 - Frist: 31.12.2026
-
-## 1508720 – Werkstudent*in Fortbildung in der Erwachsenenbildung
-
-- Arbeitgeber: Bezirksamt Spandau von Berlin
-- Besoldung: 
-- Entgelt: TV-L E 3
-- Ort: 13597 Berlin
-- Arbeitsort: Hybrid
-- Eingestellt: 03.11.2026
-- Frist: 24.11.2026
-
-## 1508252 – Akademische/-r Mitarbeiter/-in (w/m/d) Koordination des Kompetenzzentrums Überfachliches Lernen und Berufsorientierung Kenn-Nr. 384/2026
-
-- Arbeitgeber: Universität Potsdam
-- Besoldung: 
-- Entgelt: TV-L E 13
-- Ort: 14476 Potsdam
-- Arbeitsort: Hybrid
-- Eingestellt: 02.11.2026
-- Frist: 30.11.2026
 

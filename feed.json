@@ -5,9 +5,48 @@
     "radius_km": 50,
     "query": "(soziologie OR sozialwissenschaft OR sozialwissenschaften OR sozialwissenschaftliches OR medienwissenschaft OR medienwissenschaften OR Kommunikationswissenschaften OR Kommunikationswissenschaft OR Kommunikationswissenschaftliches OR kommunikationswissenschaften OR \"public health\") OR \"sozial- oder wirtschaftswissenschaftliches\""
   },
-  "generated_at": "2026-11-11T12:59:10.530Z",
+  "generated_at": "2026-11-12T14:00:42.789Z",
   "visible_results": 10,
   "jobs": [
+    {
+      "id": "1511774",
+      "employer": "Stiftung Wissenschaft und Politik",
+      "title": "Studentische Hilfskraft (d/m/w) im Veranstaltungsmanagement",
+      "grade": "",
+      "pay": "TVöD-Bund E 2",
+      "location": "10719 Berlin",
+      "distance": "7 km",
+      "workplace": "Hybrid",
+      "posted": "12.11.2026",
+      "deadline": "26.11.2026",
+      "row_text": "1511774 Stellenausschreibung öffnen | Stiftung Wissenschaft und Politik | Studentische Hilfskraft (d/m/w) im Veranstaltungsmanagement |  | TVöD-Bund E 2 | 10719 Berlin | 7 km | Hybrid | 12.11.2026 | 26.11.2026"
+    },
+    {
+      "id": "1511764",
+      "employer": "Deutsche Kinder- und Jugendstiftung (DKJS) GmbH",
+      "title": "eine:n Kommunikationsmanager:in als Elternzeitvertretung (d/w/m)",
+      "grade": "",
+      "pay": "TV-L E 11",
+      "location": "10963 Berlin",
+      "distance": "0 km",
+      "workplace": "Hybrid",
+      "posted": "12.11.2026",
+      "deadline": "25.11.2026",
+      "row_text": "1511764 Stellenausschreibung öffnen | Deutsche Kinder- und Jugendstiftung (DKJS) GmbH | eine:n Kommunikationsmanager:in als Elternzeitvertretung (d/w/m) |  | TV-L E 11 | 10963 Berlin | 0 km | Hybrid | 12.11.2026 | 25.11.2026"
+    },
+    {
+      "id": "1511537",
+      "employer": "Landeshauptstadt Potsdam",
+      "title": "Projektleiter/-in (m/w/d) ePayment",
+      "grade": "",
+      "pay": "TVöD-VKA E 11",
+      "location": "14469 Potsdam",
+      "distance": "26 km",
+      "workplace": "Vor Ort",
+      "posted": "12.11.2026",
+      "deadline": "09.12.2026",
+      "row_text": "1511537 Stellenausschreibung öffnen | Landeshauptstadt Potsdam | Projektleiter/-in (m/w/d) ePayment |  | TVöD-VKA E 11 | 14469 Potsdam | 26 km | Vor Ort | 12.11.2026 | 09.12.2026"
+    },
     {
       "id": "1511119",
       "employer": "Bundesministerium des Innern",
@@ -61,19 +100,6 @@
       "row_text": "1510060 Stellenausschreibung öffnen | Deutsche Gesetzliche Unfallversicherung e.V. (DGUV) | Referent/Referentin (m/w/d) für Grundsatzfragen im Bereich Rehabilitation und Digitalisierung |  | BG-AT E14 | 10117 Berlin | 3 km | Hybrid | 06.11.2026 | 06.12.2026"
     },
     {
-      "id": "1509667",
-      "employer": "IT-Dienstleistungszentrum Berlin",
-      "title": "Transformationsmanager*in",
-      "grade": "",
-      "pay": "TV-ITDZ Berlin E 12",
-      "location": "10713 Berlin",
-      "distance": "7 km",
-      "workplace": "Hybrid",
-      "posted": "05.11.2026",
-      "deadline": "19.11.2026",
-      "row_text": "1509667 Stellenausschreibung öffnen | IT-Dienstleistungszentrum Berlin | Transformationsmanager*in |  | TV-ITDZ Berlin E 12 | 10713 Berlin | 7 km | Hybrid | 05.11.2026 | 19.11.2026"
-    },
-    {
       "id": "1509389",
       "employer": "Die Verwaltung des Abgeordnetenhauses von Berlin",
       "title": "Werkstudierende (m/w/d)",
@@ -111,32 +137,6 @@
       "posted": "03.11.2026",
       "deadline": "31.12.2026",
       "row_text": "1508731 Stellenausschreibung öffnen | Berufsgenossenschaft Handel und Warenlogistik | Studierende für den dualen Bachelorstudiengang (B.A.) gesetzliche Unfallversicherung - Recht, Rehabilitation und Verwaltung - Abteilung Reha und Leist |  |  | 10715 Berlin | 7 km | Vor Ort | 03.11.2026 | 31.12.2026"
-    },
-    {
-      "id": "1508720",
-      "employer": "Bezirksamt Spandau von Berlin",
-      "title": "Werkstudent*in Fortbildung in der Erwachsenenbildung",
-      "grade": "",
-      "pay": "TV-L E 3",
-      "location": "13597 Berlin",
-      "distance": "15 km",
-      "workplace": "Hybrid",
-      "posted": "03.11.2026",
-      "deadline": "24.11.2026",
-      "row_text": "1508720 Stellenausschreibung öffnen | Bezirksamt Spandau von Berlin | Werkstudent*in Fortbildung in der Erwachsenenbildung |  | TV-L E 3 | 13597 Berlin | 15 km | Hybrid | 03.11.2026 | 24.11.2026"
-    },
-    {
-      "id": "1508252",
-      "employer": "Universität Potsdam",
-      "title": "Akademische/-r Mitarbeiter/-in (w/m/d) Koordination des Kompetenzzentrums Überfachliches Lernen und Berufsorientierung Kenn-Nr. 384/2026",
-      "grade": "",
-      "pay": "TV-L E 13",
-      "location": "14476 Potsdam",
-      "distance": "32 km",
-      "workplace": "Hybrid",
-      "posted": "02.11.2026",
-      "deadline": "30.11.2026",
-      "row_text": "1508252 Stellenausschreibung öffnen | Universität Potsdam | Akademische/-r Mitarbeiter/-in (w/m/d) Koordination des Kompetenzzentrums Überfachliches Lernen und Berufsorientierung Kenn-Nr. 384/2026 |  | TV-L E 13 | 14476 Potsdam | 32 km | Hybrid | 02.11.2026 | 30.11.2026"
     }
   ]
 }
