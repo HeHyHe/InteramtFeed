@@ -1,8 +1,38 @@
 # INTERAMT Feed
 
-Letzte Aktualisierung: 2026-11-12T14:00:42.789Z
+Letzte Aktualisierung: 2026-11-13T13:28:03.158Z
 
 Sichtbare Treffer: 10
+
+## 1512375 – Mitarbeiter*in für Angelegenheiten der Auftrags-, Aufgaben- sowie Prozesssteuerung für die Abteilungsleitung (m/w/d) (Kennzahl 68/26)
+
+- Arbeitgeber: Senatsverwaltung für Wissenschaft, Gesundheit und Pflege
+- Besoldung: A13
+- Entgelt: TV-L E 12
+- Ort: 10969 Berlin
+- Arbeitsort: Hybrid
+- Eingestellt: 13.11.2026
+- Frist: 06.12.2026
+
+## 1512315 – Pressereferentin/Pressereferent (weiblich/männlich/divers) im Referat "Presse- und Öffentlichkeitsarbeit"
+
+- Arbeitgeber: Ministerium für Arbeit, Soziales, Gesundheit und gesellschaftlichen Zusammenhalt des Landes Brandenburg
+- Besoldung: A13h
+- Entgelt: TV-L E 13
+- Ort: 14467 Potsdam
+- Arbeitsort: Hybrid
+- Eingestellt: 13.11.2026
+- Frist: 30.11.2026
+
+## 1511927 – WiMi Kommunale soziale Arbeit in Usbekistan und Deutschland
+
+- Arbeitgeber: Evangelische Hochschule Berlin
+- Besoldung: 
+- Entgelt: TV-L E 13
+- Ort: 14167 Berlin
+- Arbeitsort: Hybrid
+- Eingestellt: 12.11.2026
+- Frist: 30.11.2026
 
 ## 1511774 – Studentische Hilfskraft (d/m/w) im Veranstaltungsmanagement
 
@@ -73,34 +103,4 @@ Sichtbare Treffer: 10
 - Arbeitsort: Hybrid
 - Eingestellt: 06.11.2026
 - Frist: 06.12.2026
-
-## 1509389 – Werkstudierende (m/w/d)
-
-- Arbeitgeber: Die Verwaltung des Abgeordnetenhauses von Berlin
-- Besoldung: 
-- Entgelt: TV-L E 4 - TV-L E 6
-- Ort: 10117 Berlin
-- Arbeitsort: Hybrid
-- Eingestellt: 05.11.2026
-- Frist: 26.11.2026
-
-## 1509355 – Zwei Werkstudentinnen / Werkstudenten (m/w/d) Social Media
-
-- Arbeitgeber: Bundesministerium für Verkehr
-- Besoldung: A9g - A13
-- Entgelt: TVÖD-9 - TVÖD-13
-- Ort: 10115 Berlin
-- Arbeitsort: 
-- Eingestellt: 21.10.2026
-- Frist: 12.11.2026
-
-## 1508731 – Studierende für den dualen Bachelorstudiengang (B.A.) gesetzliche Unfallversicherung - Recht, Rehabilitation und Verwaltung - Abteilung Reha und Leist
-
-- Arbeitgeber: Berufsgenossenschaft Handel und Warenlogistik
-- Besoldung: 
-- Entgelt: 
-- Ort: 10715 Berlin
-- Arbeitsort: Vor Ort
-- Eingestellt: 03.11.2026
-- Frist: 31.12.2026
 
