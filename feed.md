@@ -1,8 +1,48 @@
 # INTERAMT Feed
 
-Letzte Aktualisierung: 2026-11-16T14:02:09.306Z
+Letzte Aktualisierung: 2026-11-17T14:56:49.533Z
 
 Sichtbare Treffer: 10
+
+## 1513193 – Mitarbeiter*in Forschungs- und Transfermanagement (w/m/d)
+
+- Arbeitgeber: Technische Hochschule Wildau
+- Besoldung: 
+- Entgelt: TV-L E 13
+- Ort: 15745 Wildau
+- Arbeitsort: Vor Ort
+- Eingestellt: 17.11.2026
+- Frist: 06.12.2026
+
+## 1513153 – Referent/Referentin (m/w/d) Forschungsdatenzentrum
+
+- Arbeitgeber: Deutsche Gesetzliche Unfallversicherung e.V. (DGUV)
+- Besoldung: 
+- Entgelt: BG-AT E13 - BG-AT E14
+- Ort: 10117 Berlin
+- Arbeitsort: Hybrid
+- Eingestellt: 17.11.2026
+- Frist: 16.12.2026
+
+## 1513035 – Bibliothekar:in mit hervorgehobenen Aufgaben und stellvertretende Leitung der Anton-Saefkow-Bibliothek (m/w/d)
+
+- Arbeitgeber: Bezirksamt Lichtenberg von Berlin, Amt für Weiterbildung und Kultur
+- Besoldung: 
+- Entgelt: TV-L E 10
+- Ort: 10369 Berlin
+- Arbeitsort: Vor Ort
+- Eingestellt: 17.11.2026
+- Frist: 04.12.2026
+
+## 1513021 – Koordinator:in für die Bürgerbeteiligung (m/w/d)
+
+- Arbeitgeber: Bezirksamt Lichtenberg von Berlin, Sozialraumorientierte Planungskoordination (SPK)
+- Besoldung: 
+- Entgelt: TV-L E 11
+- Ort: 10315 Berlin
+- Arbeitsort: Vor Ort
+- Eingestellt: 17.11.2026
+- Frist: 11.12.2026
 
 ## 1512375 – Mitarbeiter*in für Angelegenheiten der Auftrags-, Aufgaben- sowie Prozesssteuerung für die Abteilungsleitung (m/w/d) (Kennzahl 68/26)
 
@@ -63,44 +103,4 @@ Sichtbare Treffer: 10
 - Arbeitsort: Vor Ort
 - Eingestellt: 12.11.2026
 - Frist: 09.12.2026
-
-## 1511119 – eine Referentin / ein Referent (w/m/d) im Referat L 5 Internet, Soziale Medien für eine befristete Einstellung in der 21. Legislaturperiode
-
-- Arbeitgeber: Bundesministerium des Innern
-- Besoldung: A13h - A14
-- Entgelt: TVöD-Bund E 13 - TVöD-Bund E 14
-- Ort: 10557 Berlin
-- Arbeitsort: Hybrid
-- Eingestellt: 11.11.2026
-- Frist: 02.12.2026
-
-## 1510631 – Sachbearbeiter/-in (m/w/d) Belegungssteuerung
-
-- Arbeitgeber: Landeshauptstadt Potsdam
-- Besoldung: 
-- Entgelt: TVöD-VKA E 9c
-- Ort: 14469 Potsdam
-- Arbeitsort: Hybrid
-- Eingestellt: 09.11.2026
-- Frist: 27.11.2026
-
-## 1510297 – Sachbearbeiterin Krisenstab & Krisenvorsorge (w/m/d)
-
-- Arbeitgeber: Die Autobahn GmbH des Bundes
-- Besoldung: 
-- Entgelt: TV-Autobahn E 9c
-- Ort: 10557 Berlin
-- Arbeitsort: Hybrid
-- Eingestellt: 09.11.2026
-- Frist: 23.11.2026
-
-## 1510060 – Referent/Referentin (m/w/d) für Grundsatzfragen im Bereich Rehabilitation und Digitalisierung
-
-- Arbeitgeber: Deutsche Gesetzliche Unfallversicherung e.V. (DGUV)
-- Besoldung: 
-- Entgelt: BG-AT E14
-- Ort: 10117 Berlin
-- Arbeitsort: Hybrid
-- Eingestellt: 06.11.2026
-- Frist: 06.12.2026
 
