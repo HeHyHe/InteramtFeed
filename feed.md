@@ -1,8 +1,38 @@
 # INTERAMT Feed
 
-Letzte Aktualisierung: 2026-11-17T14:56:49.533Z
+Letzte Aktualisierung: 2026-11-18T14:36:42.839Z
 
 Sichtbare Treffer: 10
+
+## 1513645 – Sachbearbeiterin/Sachbearbeiter (w/m/d); Standort Berlin
+
+- Arbeitgeber: Deutsche Rentenversicherung Knappschaft-Bahn-See
+- Besoldung: 
+- Entgelt: TVöD-Bund E 9b
+- Ort: 10963 Berlin
+- Arbeitsort: Hybrid
+- Eingestellt: 18.11.2026
+- Frist: 10.12.2026
+
+## 1513575 – Gleichstellungsbeauftragte.
+
+- Arbeitgeber: Landkreis Oberhavel
+- Besoldung: 
+- Entgelt: TVöD-VKA E 11
+- Ort: 16515 Oranienburg
+- Arbeitsort: Hybrid
+- Eingestellt: 18.11.2026
+- Frist: 10.12.2026
+
+## 1513462 – Wissenschaftliche*r Mitarbeiter*in (w/m/div)
+
+- Arbeitgeber: Deutsches Institut für Wirtschaftsforschung e.V. (DIW Berlin)
+- Besoldung: 
+- Entgelt: TVöD-Bund E 13
+- Ort: 10117 Berlin
+- Arbeitsort: Hybrid
+- Eingestellt: 18.11.2026
+- Frist: 30.11.2026
 
 ## 1513193 – Mitarbeiter*in Forschungs- und Transfermanagement (w/m/d)
 
@@ -73,34 +103,4 @@ Sichtbare Treffer: 10
 - Arbeitsort: Hybrid
 - Eingestellt: 12.11.2026
 - Frist: 30.11.2026
-
-## 1511774 – Studentische Hilfskraft (d/m/w) im Veranstaltungsmanagement
-
-- Arbeitgeber: Stiftung Wissenschaft und Politik
-- Besoldung: 
-- Entgelt: TVöD-Bund E 2
-- Ort: 10719 Berlin
-- Arbeitsort: Hybrid
-- Eingestellt: 12.11.2026
-- Frist: 26.11.2026
-
-## 1511764 – eine:n Kommunikationsmanager:in als Elternzeitvertretung (d/w/m)
-
-- Arbeitgeber: Deutsche Kinder- und Jugendstiftung (DKJS) GmbH
-- Besoldung: 
-- Entgelt: TV-L E 11
-- Ort: 10963 Berlin
-- Arbeitsort: Hybrid
-- Eingestellt: 12.11.2026
-- Frist: 25.11.2026
-
-## 1511537 – Projektleiter/-in (m/w/d) ePayment
-
-- Arbeitgeber: Landeshauptstadt Potsdam
-- Besoldung: 
-- Entgelt: TVöD-VKA E 11
-- Ort: 14469 Potsdam
-- Arbeitsort: Vor Ort
-- Eingestellt: 12.11.2026
-- Frist: 09.12.2026
 

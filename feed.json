@@ -5,9 +5,48 @@
     "radius_km": 50,
     "query": "(soziologie OR sozialwissenschaft OR sozialwissenschaften OR sozialwissenschaftliches OR medienwissenschaft OR medienwissenschaften OR Kommunikationswissenschaften OR Kommunikationswissenschaft OR Kommunikationswissenschaftliches OR kommunikationswissenschaften OR \"public health\") OR \"sozial- oder wirtschaftswissenschaftliches\""
   },
-  "generated_at": "2026-11-17T14:56:49.533Z",
+  "generated_at": "2026-11-18T14:36:42.839Z",
   "visible_results": 10,
   "jobs": [
+    {
+      "id": "1513645",
+      "employer": "Deutsche Rentenversicherung Knappschaft-Bahn-See",
+      "title": "Sachbearbeiterin/Sachbearbeiter (w/m/d); Standort Berlin",
+      "grade": "",
+      "pay": "TVöD-Bund E 9b",
+      "location": "10963 Berlin",
+      "distance": "0 km",
+      "workplace": "Hybrid",
+      "posted": "18.11.2026",
+      "deadline": "10.12.2026",
+      "row_text": "1513645 Stellenausschreibung öffnen | Deutsche Rentenversicherung Knappschaft-Bahn-See | Sachbearbeiterin/Sachbearbeiter (w/m/d); Standort Berlin |  | TVöD-Bund E 9b | 10963 Berlin | 0 km | Hybrid | 18.11.2026 | 10.12.2026"
+    },
+    {
+      "id": "1513575",
+      "employer": "Landkreis Oberhavel",
+      "title": "Gleichstellungsbeauftragte.",
+      "grade": "",
+      "pay": "TVöD-VKA E 11",
+      "location": "16515 Oranienburg",
+      "distance": "31 km",
+      "workplace": "Hybrid",
+      "posted": "18.11.2026",
+      "deadline": "10.12.2026",
+      "row_text": "1513575 Stellenausschreibung öffnen | Landkreis Oberhavel | Gleichstellungsbeauftragte. |  | TVöD-VKA E 11 | 16515 Oranienburg | 31 km | Hybrid | 18.11.2026 | 10.12.2026"
+    },
+    {
+      "id": "1513462",
+      "employer": "Deutsches Institut für Wirtschaftsforschung e.V. (DIW Berlin)",
+      "title": "Wissenschaftliche*r Mitarbeiter*in (w/m/div)",
+      "grade": "",
+      "pay": "TVöD-Bund E 13",
+      "location": "10117 Berlin",
+      "distance": "3 km",
+      "workplace": "Hybrid",
+      "posted": "18.11.2026",
+      "deadline": "30.11.2026",
+      "row_text": "1513462 Stellenausschreibung öffnen | Deutsches Institut für Wirtschaftsforschung e.V. (DIW Berlin) | Wissenschaftliche*r Mitarbeiter*in (w/m/div) |  | TVöD-Bund E 13 | 10117 Berlin | 3 km | Hybrid | 18.11.2026 | 30.11.2026"
+    },
     {
       "id": "1513193",
       "employer": "Technische Hochschule Wildau",
@@ -98,45 +137,6 @@
       "posted": "12.11.2026",
       "deadline": "30.11.2026",
       "row_text": "1511927 Stellenausschreibung öffnen | Evangelische Hochschule Berlin | WiMi Kommunale soziale Arbeit in Usbekistan und Deutschland |  | TV-L E 13 | 14167 Berlin | 13 km | Hybrid | 12.11.2026 | 30.11.2026"
-    },
-    {
-      "id": "1511774",
-      "employer": "Stiftung Wissenschaft und Politik",
-      "title": "Studentische Hilfskraft (d/m/w) im Veranstaltungsmanagement",
-      "grade": "",
-      "pay": "TVöD-Bund E 2",
-      "location": "10719 Berlin",
-      "distance": "7 km",
-      "workplace": "Hybrid",
-      "posted": "12.11.2026",
-      "deadline": "26.11.2026",
-      "row_text": "1511774 Stellenausschreibung öffnen | Stiftung Wissenschaft und Politik | Studentische Hilfskraft (d/m/w) im Veranstaltungsmanagement |  | TVöD-Bund E 2 | 10719 Berlin | 7 km | Hybrid | 12.11.2026 | 26.11.2026"
-    },
-    {
-      "id": "1511764",
-      "employer": "Deutsche Kinder- und Jugendstiftung (DKJS) GmbH",
-      "title": "eine:n Kommunikationsmanager:in als Elternzeitvertretung (d/w/m)",
-      "grade": "",
-      "pay": "TV-L E 11",
-      "location": "10963 Berlin",
-      "distance": "0 km",
-      "workplace": "Hybrid",
-      "posted": "12.11.2026",
-      "deadline": "25.11.2026",
-      "row_text": "1511764 Stellenausschreibung öffnen | Deutsche Kinder- und Jugendstiftung (DKJS) GmbH | eine:n Kommunikationsmanager:in als Elternzeitvertretung (d/w/m) |  | TV-L E 11 | 10963 Berlin | 0 km | Hybrid | 12.11.2026 | 25.11.2026"
-    },
-    {
-      "id": "1511537",
-      "employer": "Landeshauptstadt Potsdam",
-      "title": "Projektleiter/-in (m/w/d) ePayment",
-      "grade": "",
-      "pay": "TVöD-VKA E 11",
-      "location": "14469 Potsdam",
-      "distance": "26 km",
-      "workplace": "Vor Ort",
-      "posted": "12.11.2026",
-      "deadline": "09.12.2026",
-      "row_text": "1511537 Stellenausschreibung öffnen | Landeshauptstadt Potsdam | Projektleiter/-in (m/w/d) ePayment |  | TVöD-VKA E 11 | 14469 Potsdam | 26 km | Vor Ort | 12.11.2026 | 09.12.2026"
     }
   ]
 }
