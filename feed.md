@@ -1,8 +1,28 @@
 # INTERAMT Feed
 
-Letzte Aktualisierung: 2026-11-18T14:36:42.839Z
+Letzte Aktualisierung: 2026-11-19T14:43:37.822Z
 
 Sichtbare Treffer: 10
+
+## 1513909 – Referent:in (d/w/m) mit dem Schwerpunkt adaptives Lehren und Lernen und schulische Diagnostik
+
+- Arbeitgeber: Deutsche Kinder- und Jugendstiftung (DKJS) GmbH
+- Besoldung: 
+- Entgelt: TV-L E 11
+- Ort: 10963 Berlin
+- Arbeitsort: Hybrid
+- Eingestellt: 19.11.2026
+- Frist: 09.12.2026
+
+## 1513783 – Wissenschaftliche_r Mitarbeiter_in gem. § 110 BerlHG (m/w/d) Zur Qualifizierung im Fachgebiet Gesundheit oder Erziehung und Bildung
+
+- Arbeitgeber: Alice Salomon Hochschule
+- Besoldung: 
+- Entgelt: TV-L E 13
+- Ort: 12627 Berlin
+- Arbeitsort: Hybrid
+- Eingestellt: 18.11.2026
+- Frist: 06.01.2027
 
 ## 1513645 – Sachbearbeiterin/Sachbearbeiter (w/m/d); Standort Berlin
 
@@ -83,24 +103,4 @@ Sichtbare Treffer: 10
 - Arbeitsort: Hybrid
 - Eingestellt: 13.11.2026
 - Frist: 06.12.2026
-
-## 1512315 – Pressereferentin/Pressereferent (weiblich/männlich/divers) im Referat "Presse- und Öffentlichkeitsarbeit"
-
-- Arbeitgeber: Ministerium für Arbeit, Soziales, Gesundheit und gesellschaftlichen Zusammenhalt des Landes Brandenburg
-- Besoldung: A13h
-- Entgelt: TV-L E 13
-- Ort: 14467 Potsdam
-- Arbeitsort: Hybrid
-- Eingestellt: 13.11.2026
-- Frist: 30.11.2026
-
-## 1511927 – WiMi Kommunale soziale Arbeit in Usbekistan und Deutschland
-
-- Arbeitgeber: Evangelische Hochschule Berlin
-- Besoldung: 
-- Entgelt: TV-L E 13
-- Ort: 14167 Berlin
-- Arbeitsort: Hybrid
-- Eingestellt: 12.11.2026
-- Frist: 30.11.2026
 

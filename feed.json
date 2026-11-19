@@ -5,9 +5,35 @@
     "radius_km": 50,
     "query": "(soziologie OR sozialwissenschaft OR sozialwissenschaften OR sozialwissenschaftliches OR medienwissenschaft OR medienwissenschaften OR Kommunikationswissenschaften OR Kommunikationswissenschaft OR Kommunikationswissenschaftliches OR kommunikationswissenschaften OR \"public health\") OR \"sozial- oder wirtschaftswissenschaftliches\""
   },
-  "generated_at": "2026-11-18T14:36:42.839Z",
+  "generated_at": "2026-11-19T14:43:37.822Z",
   "visible_results": 10,
   "jobs": [
+    {
+      "id": "1513909",
+      "employer": "Deutsche Kinder- und Jugendstiftung (DKJS) GmbH",
+      "title": "Referent:in (d/w/m) mit dem Schwerpunkt adaptives Lehren und Lernen und schulische Diagnostik",
+      "grade": "",
+      "pay": "TV-L E 11",
+      "location": "10963 Berlin",
+      "distance": "0 km",
+      "workplace": "Hybrid",
+      "posted": "19.11.2026",
+      "deadline": "09.12.2026",
+      "row_text": "1513909 Stellenausschreibung öffnen | Deutsche Kinder- und Jugendstiftung (DKJS) GmbH | Referent:in (d/w/m) mit dem Schwerpunkt adaptives Lehren und Lernen und schulische Diagnostik |  | TV-L E 11 | 10963 Berlin | 0 km | Hybrid | 19.11.2026 | 09.12.2026"
+    },
+    {
+      "id": "1513783",
+      "employer": "Alice Salomon Hochschule",
+      "title": "Wissenschaftliche_r Mitarbeiter_in gem. § 110 BerlHG (m/w/d) Zur Qualifizierung im Fachgebiet Gesundheit oder Erziehung und Bildung",
+      "grade": "",
+      "pay": "TV-L E 13",
+      "location": "12627 Berlin",
+      "distance": "14 km",
+      "workplace": "Hybrid",
+      "posted": "18.11.2026",
+      "deadline": "06.01.2027",
+      "row_text": "1513783 Stellenausschreibung öffnen | Alice Salomon Hochschule | Wissenschaftliche_r Mitarbeiter_in gem. § 110 BerlHG (m/w/d) Zur Qualifizierung im Fachgebiet Gesundheit oder Erziehung und Bildung |  | TV-L E 13 | 12627 Berlin | 14 km | Hybrid | 18.11.2026 | 06.01.2027"
+    },
     {
       "id": "1513645",
       "employer": "Deutsche Rentenversicherung Knappschaft-Bahn-See",
@@ -111,32 +137,6 @@
       "posted": "13.11.2026",
       "deadline": "06.12.2026",
       "row_text": "1512375 Stellenausschreibung öffnen | Senatsverwaltung für Wissenschaft, Gesundheit und Pflege | Mitarbeiter*in für Angelegenheiten der Auftrags-, Aufgaben- sowie Prozesssteuerung für die Abteilungsleitung (m/w/d) (Kennzahl 68/26) | A13 | TV-L E 12 | 10969 Berlin | 0 km | Hybrid | 13.11.2026 | 06.12.2026"
-    },
-    {
-      "id": "1512315",
-      "employer": "Ministerium für Arbeit, Soziales, Gesundheit und gesellschaftlichen Zusammenhalt des Landes Brandenburg",
-      "title": "Pressereferentin/Pressereferent (weiblich/männlich/divers) im Referat \"Presse- und Öffentlichkeitsarbeit\"",
-      "grade": "A13h",
-      "pay": "TV-L E 13",
-      "location": "14467 Potsdam",
-      "distance": "27 km",
-      "workplace": "Hybrid",
-      "posted": "13.11.2026",
-      "deadline": "30.11.2026",
-      "row_text": "1512315 Stellenausschreibung öffnen | Ministerium für Arbeit, Soziales, Gesundheit und gesellschaftlichen Zusammenhalt des Landes Brandenburg | Pressereferentin/Pressereferent (weiblich/männlich/divers) im Referat \"Presse- und Öffentlichkeitsarbeit\" | A13h | TV-L E 13 | 14467 Potsdam | 27 km | Hybrid | 13.11.2026 | 30.11.2026"
-    },
-    {
-      "id": "1511927",
-      "employer": "Evangelische Hochschule Berlin",
-      "title": "WiMi Kommunale soziale Arbeit in Usbekistan und Deutschland",
-      "grade": "",
-      "pay": "TV-L E 13",
-      "location": "14167 Berlin",
-      "distance": "13 km",
-      "workplace": "Hybrid",
-      "posted": "12.11.2026",
-      "deadline": "30.11.2026",
-      "row_text": "1511927 Stellenausschreibung öffnen | Evangelische Hochschule Berlin | WiMi Kommunale soziale Arbeit in Usbekistan und Deutschland |  | TV-L E 13 | 14167 Berlin | 13 km | Hybrid | 12.11.2026 | 30.11.2026"
     }
   ]
 }
