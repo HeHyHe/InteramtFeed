@@ -1,8 +1,48 @@
 # INTERAMT Feed
 
-Letzte Aktualisierung: 2026-11-19T14:43:37.822Z
+Letzte Aktualisierung: 2026-11-20T14:24:32.670Z
 
 Sichtbare Treffer: 10
+
+## 1514806 – Präventions- und Interventionsbegleitung (m/w/d) in der Jugendhilfe im Strafverfahren
+
+- Arbeitgeber: Bezirksamt Steglitz-Zehlendorf von Berlin
+- Besoldung: 
+- Entgelt: TV-L S E 12
+- Ort: 14163 Berlin
+- Arbeitsort: Hybrid
+- Eingestellt: 20.11.2026
+- Frist: 18.12.2026
+
+## 1514425 – Sachgebietsleitung Kita / Jugendförderung (m/w/d)
+
+- Arbeitgeber: Landkreis Barnim
+- Besoldung: 
+- Entgelt: TVöD-VKA E 11
+- Ort: 16225 Eberswalde
+- Arbeitsort: Hybrid
+- Eingestellt: 20.11.2026
+- Frist: 04.12.2026
+
+## 1514399 – Referent*in für Konfliktmanagement
+
+- Arbeitgeber: Umweltbundesamt
+- Besoldung: 
+- Entgelt: TVöD-Bund E 13
+- Ort: 13627 Berlin
+- Arbeitsort: Hybrid
+- Eingestellt: 20.11.2026
+- Frist: 11.12.2026
+
+## 1514313 – Befristete Referentinnen und Referenten in der Unterabteilung LB - Kommunikation, Sprecher/in der Ministerin (m/w/d)
+
+- Arbeitgeber: Bundesministerium für Wirtschaft und Energie
+- Besoldung: 
+- Entgelt: TVöD-Bund E 13 - TVöD-Bund E 14
+- Ort: 10115 Berlin
+- Arbeitsort: Hybrid
+- Eingestellt: 19.11.2026
+- Frist: 04.12.2026
 
 ## 1513909 – Referent:in (d/w/m) mit dem Schwerpunkt adaptives Lehren und Lernen und schulische Diagnostik
 
@@ -62,45 +102,5 @@ Sichtbare Treffer: 10
 - Ort: 15745 Wildau
 - Arbeitsort: Vor Ort
 - Eingestellt: 17.11.2026
-- Frist: 06.12.2026
-
-## 1513153 – Referent/Referentin (m/w/d) Forschungsdatenzentrum
-
-- Arbeitgeber: Deutsche Gesetzliche Unfallversicherung e.V. (DGUV)
-- Besoldung: 
-- Entgelt: BG-AT E13 - BG-AT E14
-- Ort: 10117 Berlin
-- Arbeitsort: Hybrid
-- Eingestellt: 17.11.2026
-- Frist: 16.12.2026
-
-## 1513035 – Bibliothekar:in mit hervorgehobenen Aufgaben und stellvertretende Leitung der Anton-Saefkow-Bibliothek (m/w/d)
-
-- Arbeitgeber: Bezirksamt Lichtenberg von Berlin, Amt für Weiterbildung und Kultur
-- Besoldung: 
-- Entgelt: TV-L E 10
-- Ort: 10369 Berlin
-- Arbeitsort: Vor Ort
-- Eingestellt: 17.11.2026
-- Frist: 04.12.2026
-
-## 1513021 – Koordinator:in für die Bürgerbeteiligung (m/w/d)
-
-- Arbeitgeber: Bezirksamt Lichtenberg von Berlin, Sozialraumorientierte Planungskoordination (SPK)
-- Besoldung: 
-- Entgelt: TV-L E 11
-- Ort: 10315 Berlin
-- Arbeitsort: Vor Ort
-- Eingestellt: 17.11.2026
-- Frist: 11.12.2026
-
-## 1512375 – Mitarbeiter*in für Angelegenheiten der Auftrags-, Aufgaben- sowie Prozesssteuerung für die Abteilungsleitung (m/w/d) (Kennzahl 68/26)
-
-- Arbeitgeber: Senatsverwaltung für Wissenschaft, Gesundheit und Pflege
-- Besoldung: A13
-- Entgelt: TV-L E 12
-- Ort: 10969 Berlin
-- Arbeitsort: Hybrid
-- Eingestellt: 13.11.2026
 - Frist: 06.12.2026
 
