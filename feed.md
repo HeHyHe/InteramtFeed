@@ -1,8 +1,18 @@
 # INTERAMT Feed
 
-Letzte Aktualisierung: 2026-11-22T13:38:39.600Z
+Letzte Aktualisierung: 2026-11-23T16:31:35.689Z
 
 Sichtbare Treffer: 10
+
+## 1515057 – Sachbearbeitung (m/w/d) im Referat "Medienbildung und -beratung" mit dem Schwerpunkt: Medienproduktion
+
+- Arbeitgeber: Landesinstitut Brandenburg für Schule und Lehrkräftebildung (LIBRA)
+- Besoldung: 
+- Entgelt: TV-L E 12
+- Ort: 14974 Ludwigsfelde
+- Arbeitsort: Hybrid
+- Eingestellt: 23.11.2026
+- Frist: 21.12.2026
 
 ## 1514806 – Präventions- und Interventionsbegleitung (m/w/d) in der Jugendhilfe im Strafverfahren
 
@@ -93,14 +103,4 @@ Sichtbare Treffer: 10
 - Arbeitsort: Hybrid
 - Eingestellt: 18.11.2026
 - Frist: 30.11.2026
-
-## 1513193 – Mitarbeiter*in Forschungs- und Transfermanagement (w/m/d)
-
-- Arbeitgeber: Technische Hochschule Wildau
-- Besoldung: 
-- Entgelt: TV-L E 13
-- Ort: 15745 Wildau
-- Arbeitsort: Vor Ort
-- Eingestellt: 17.11.2026
-- Frist: 06.12.2026
 
