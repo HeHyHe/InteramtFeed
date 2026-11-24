@@ -5,9 +5,22 @@
     "radius_km": 50,
     "query": "(soziologie OR sozialwissenschaft OR sozialwissenschaften OR sozialwissenschaftliches OR medienwissenschaft OR medienwissenschaften OR Kommunikationswissenschaften OR Kommunikationswissenschaft OR Kommunikationswissenschaftliches OR kommunikationswissenschaften OR \"public health\") OR \"sozial- oder wirtschaftswissenschaftliches\""
   },
-  "generated_at": "2026-11-23T16:31:35.689Z",
+  "generated_at": "2026-11-24T16:30:55.137Z",
   "visible_results": 10,
   "jobs": [
+    {
+      "id": "1515428",
+      "employer": "Humboldt-Universität zu Berlin",
+      "title": "Projektkoordinator*in für die \"Vernetzungsstelle METIS & GenderConsulting intersektional: Familiengerechtigkeit, Gleichstellung und Diversität (m/w/d)",
+      "grade": "",
+      "pay": "TV-L E 13",
+      "location": "10117 Berlin",
+      "distance": "3 km",
+      "workplace": "Hybrid",
+      "posted": "24.11.2026",
+      "deadline": "15.12.2026",
+      "row_text": "1515428 Stellenausschreibung öffnen | Humboldt-Universität zu Berlin | Projektkoordinator*in für die \"Vernetzungsstelle METIS & GenderConsulting intersektional: Familiengerechtigkeit, Gleichstellung und Diversität (m/w/d) |  | TV-L E 13 | 10117 Berlin | 3 km | Hybrid | 24.11.2026 | 15.12.2026"
+    },
     {
       "id": "1515057",
       "employer": "Landesinstitut Brandenburg für Schule und Lehrkräftebildung (LIBRA)",
@@ -89,7 +102,7 @@
     {
       "id": "1513783",
       "employer": "Alice Salomon Hochschule",
-      "title": "Wissenschaftliche_r Mitarbeiter_in gem. § 110 BerlHG (m/w/d) Zur Qualifizierung im Fachgebiet Gesundheit oder Erziehung und Bildung",
+      "title": "Wissenschaftliche_r Mitarbeiter_in (m/w/d) zur Qualifizierung im Fachgebiet Gesundheit oder Erziehung und Bildung",
       "grade": "",
       "pay": "TV-L E 13",
       "location": "12627 Berlin",
@@ -97,7 +110,7 @@
       "workplace": "Hybrid",
       "posted": "18.11.2026",
       "deadline": "06.01.2027",
-      "row_text": "1513783 Stellenausschreibung öffnen | Alice Salomon Hochschule | Wissenschaftliche_r Mitarbeiter_in gem. § 110 BerlHG (m/w/d) Zur Qualifizierung im Fachgebiet Gesundheit oder Erziehung und Bildung |  | TV-L E 13 | 12627 Berlin | 14 km | Hybrid | 18.11.2026 | 06.01.2027"
+      "row_text": "1513783 Stellenausschreibung öffnen | Alice Salomon Hochschule | Wissenschaftliche_r Mitarbeiter_in (m/w/d) zur Qualifizierung im Fachgebiet Gesundheit oder Erziehung und Bildung |  | TV-L E 13 | 12627 Berlin | 14 km | Hybrid | 18.11.2026 | 06.01.2027"
     },
     {
       "id": "1513645",
@@ -124,19 +137,6 @@
       "posted": "18.11.2026",
       "deadline": "10.12.2026",
       "row_text": "1513575 Stellenausschreibung öffnen | Landkreis Oberhavel | Gleichstellungsbeauftragte. |  | TVöD-VKA E 11 | 16515 Oranienburg | 31 km | Hybrid | 18.11.2026 | 10.12.2026"
-    },
-    {
-      "id": "1513462",
-      "employer": "Deutsches Institut für Wirtschaftsforschung e.V. (DIW Berlin)",
-      "title": "Wissenschaftliche*r Mitarbeiter*in (w/m/div)",
-      "grade": "",
-      "pay": "TVöD-Bund E 13",
-      "location": "10117 Berlin",
-      "distance": "3 km",
-      "workplace": "Hybrid",
-      "posted": "18.11.2026",
-      "deadline": "30.11.2026",
-      "row_text": "1513462 Stellenausschreibung öffnen | Deutsches Institut für Wirtschaftsforschung e.V. (DIW Berlin) | Wissenschaftliche*r Mitarbeiter*in (w/m/div) |  | TVöD-Bund E 13 | 10117 Berlin | 3 km | Hybrid | 18.11.2026 | 30.11.2026"
     }
   ]
 }

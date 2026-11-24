@@ -1,8 +1,18 @@
 # INTERAMT Feed
 
-Letzte Aktualisierung: 2026-11-23T16:31:35.689Z
+Letzte Aktualisierung: 2026-11-24T16:30:55.137Z
 
 Sichtbare Treffer: 10
+
+## 1515428 – Projektkoordinator*in für die "Vernetzungsstelle METIS & GenderConsulting intersektional: Familiengerechtigkeit, Gleichstellung und Diversität (m/w/d)
+
+- Arbeitgeber: Humboldt-Universität zu Berlin
+- Besoldung: 
+- Entgelt: TV-L E 13
+- Ort: 10117 Berlin
+- Arbeitsort: Hybrid
+- Eingestellt: 24.11.2026
+- Frist: 15.12.2026
 
 ## 1515057 – Sachbearbeitung (m/w/d) im Referat "Medienbildung und -beratung" mit dem Schwerpunkt: Medienproduktion
 
@@ -64,7 +74,7 @@ Sichtbare Treffer: 10
 - Eingestellt: 19.11.2026
 - Frist: 09.12.2026
 
-## 1513783 – Wissenschaftliche_r Mitarbeiter_in gem. § 110 BerlHG (m/w/d) Zur Qualifizierung im Fachgebiet Gesundheit oder Erziehung und Bildung
+## 1513783 – Wissenschaftliche_r Mitarbeiter_in (m/w/d) zur Qualifizierung im Fachgebiet Gesundheit oder Erziehung und Bildung
 
 - Arbeitgeber: Alice Salomon Hochschule
 - Besoldung: 
@@ -93,14 +103,4 @@ Sichtbare Treffer: 10
 - Arbeitsort: Hybrid
 - Eingestellt: 18.11.2026
 - Frist: 10.12.2026
-
-## 1513462 – Wissenschaftliche*r Mitarbeiter*in (w/m/div)
-
-- Arbeitgeber: Deutsches Institut für Wirtschaftsforschung e.V. (DIW Berlin)
-- Besoldung: 
-- Entgelt: TVöD-Bund E 13
-- Ort: 10117 Berlin
-- Arbeitsort: Hybrid
-- Eingestellt: 18.11.2026
-- Frist: 30.11.2026
 
