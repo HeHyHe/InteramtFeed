@@ -1,6 +1,6 @@
 # INTERAMT Feed
 
-Letzte Aktualisierung: 2026-11-24T16:30:55.137Z
+Letzte Aktualisierung: 2026-11-25T16:09:59.809Z
 
 Sichtbare Treffer: 10
 
