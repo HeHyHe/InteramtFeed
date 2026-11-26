@@ -1,8 +1,58 @@
 # INTERAMT Feed
 
-Letzte Aktualisierung: 2026-11-25T16:09:59.809Z
+Letzte Aktualisierung: 2026-11-26T15:50:09.823Z
 
 Sichtbare Treffer: 10
+
+## 1516324 – Wissenschaftliche*r Mitarbeiter*in (m/w/d/k. A.)
+
+- Arbeitgeber: Dt. Zentrum f. lntegr.- u. Migrat.forsch. (DeZIM) e.V.
+- Besoldung: 
+- Entgelt: TVöD-Bund E 13
+- Ort: 10117 Berlin
+- Arbeitsort: Hybrid
+- Eingestellt: 26.11.2026
+- Frist: 13.12.2026
+
+## 1516305 – Referatsleitung Prozessmanagement und Kulturentwicklung
+
+- Arbeitgeber: Berufsgenossenschaft der Bauwirtschaft
+- Besoldung: 
+- Entgelt: BG-AT E14
+- Ort: 10719 Berlin
+- Arbeitsort: Hybrid
+- Eingestellt: 26.11.2026
+- Frist: 17.12.2026
+
+## 1516227 – Arbeitsgruppenleiter/-in (m/w/d) Digitalisierung
+
+- Arbeitgeber: Landeshauptstadt Potsdam
+- Besoldung: 
+- Entgelt: TVöD-VKA E 12
+- Ort: 14469 Potsdam
+- Arbeitsort: Vor Ort
+- Eingestellt: 26.11.2026
+- Frist: 10.12.2026
+
+## 1516076 – Wissenschaftliche Mitarbeiterin / Wissenschaftlicher Mitarbeiter im EU-Pilotprojekt zur Erweiterung des EHIS (d/m/w)
+
+- Arbeitgeber: Robert Koch-Institut
+- Besoldung: 
+- Entgelt: TVöD-Bund E 13
+- Ort: 13347 Berlin
+- Arbeitsort: Hybrid
+- Eingestellt: 26.11.2026
+- Frist: 16.12.2026
+
+## 1515896 – Referentin/Referent (weiblich/männlich/divers) im Referat 44 "Maßregelvollzug, Psychiatrie, Sucht"
+
+- Arbeitgeber: Ministerium für Arbeit, Soziales, Gesundheit und gesellschaftlichen Zusammenhalt des Landes Brandenburg
+- Besoldung: A13
+- Entgelt: TV-L E 13
+- Ort: 14467 Potsdam
+- Arbeitsort: Hybrid
+- Eingestellt: 26.11.2026
+- Frist: 13.12.2026
 
 ## 1515428 – Projektkoordinator*in für die "Vernetzungsstelle METIS & GenderConsulting intersektional: Familiengerechtigkeit, Gleichstellung und Diversität (m/w/d)
 
@@ -13,6 +63,16 @@ Sichtbare Treffer: 10
 - Arbeitsort: Hybrid
 - Eingestellt: 24.11.2026
 - Frist: 15.12.2026
+
+## 1515190 – Open Data Koordination Fach- und Forschungsdatenmanagement (d/m/w)
+
+- Arbeitgeber: Robert Koch-Institut
+- Besoldung: 
+- Entgelt: TVöD-Bund E 13
+- Ort: 13353 Berlin
+- Arbeitsort: Hybrid
+- Eingestellt: 26.11.2026
+- Frist: 20.12.2026
 
 ## 1515057 – Sachbearbeitung (m/w/d) im Referat "Medienbildung und -beratung" mit dem Schwerpunkt: Medienproduktion
 
@@ -43,64 +103,4 @@ Sichtbare Treffer: 10
 - Arbeitsort: Hybrid
 - Eingestellt: 20.11.2026
 - Frist: 04.12.2026
-
-## 1514399 – Referent*in für Konfliktmanagement
-
-- Arbeitgeber: Umweltbundesamt
-- Besoldung: 
-- Entgelt: TVöD-Bund E 13
-- Ort: 13627 Berlin
-- Arbeitsort: Hybrid
-- Eingestellt: 20.11.2026
-- Frist: 11.12.2026
-
-## 1514313 – Befristete Referentinnen und Referenten in der Unterabteilung LB - Kommunikation, Sprecher/in der Ministerin (m/w/d)
-
-- Arbeitgeber: Bundesministerium für Wirtschaft und Energie
-- Besoldung: 
-- Entgelt: TVöD-Bund E 13 - TVöD-Bund E 14
-- Ort: 10115 Berlin
-- Arbeitsort: Hybrid
-- Eingestellt: 19.11.2026
-- Frist: 04.12.2026
-
-## 1513909 – Referent:in (d/w/m) mit dem Schwerpunkt adaptives Lehren und Lernen und schulische Diagnostik
-
-- Arbeitgeber: Deutsche Kinder- und Jugendstiftung (DKJS) GmbH
-- Besoldung: 
-- Entgelt: TV-L E 11
-- Ort: 10963 Berlin
-- Arbeitsort: Hybrid
-- Eingestellt: 19.11.2026
-- Frist: 09.12.2026
-
-## 1513783 – Wissenschaftliche_r Mitarbeiter_in (m/w/d) zur Qualifizierung im Fachgebiet Gesundheit oder Erziehung und Bildung
-
-- Arbeitgeber: Alice Salomon Hochschule
-- Besoldung: 
-- Entgelt: TV-L E 13
-- Ort: 12627 Berlin
-- Arbeitsort: Hybrid
-- Eingestellt: 18.11.2026
-- Frist: 06.01.2027
-
-## 1513645 – Sachbearbeiterin/Sachbearbeiter (w/m/d); Standort Berlin
-
-- Arbeitgeber: Deutsche Rentenversicherung Knappschaft-Bahn-See
-- Besoldung: 
-- Entgelt: TVöD-Bund E 9b
-- Ort: 10963 Berlin
-- Arbeitsort: Hybrid
-- Eingestellt: 18.11.2026
-- Frist: 10.12.2026
-
-## 1513575 – Gleichstellungsbeauftragte.
-
-- Arbeitgeber: Landkreis Oberhavel
-- Besoldung: 
-- Entgelt: TVöD-VKA E 11
-- Ort: 16515 Oranienburg
-- Arbeitsort: Hybrid
-- Eingestellt: 18.11.2026
-- Frist: 10.12.2026
 
