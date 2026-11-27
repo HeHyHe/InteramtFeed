@@ -1,8 +1,38 @@
 # INTERAMT Feed
 
-Letzte Aktualisierung: 2026-11-26T15:50:09.823Z
+Letzte Aktualisierung: 2026-11-27T15:38:37.115Z
 
 Sichtbare Treffer: 10
+
+## 1516781 – Studentische Aushilfe (m/w/d) im Fachbereich Kinemathek und Zeughauskino der Abteilung Ausstellungen
+
+- Arbeitgeber: Stiftung Deutsches Historisches Museum
+- Besoldung: 
+- Entgelt: TVöD-Bund E 3
+- Ort: 10117 Berlin
+- Arbeitsort: Vor Ort
+- Eingestellt: 27.11.2026
+- Frist: 17.12.2026
+
+## 1516695 – Leitung (m/w/d) Jugendamt
+
+- Arbeitgeber: Bezirksamt Treptow-Köpenick von Berlin
+- Besoldung: B2
+- Entgelt: AT 2
+- Ort: 12489 Berlin
+- Arbeitsort: Vor Ort
+- Eingestellt: 27.11.2026
+- Frist: 11.12.2026
+
+## 1516424 – Transformationsmanager*in (m/w/d) Digitalisierung und Automatisierung
+
+- Arbeitgeber: Bundesstiftung Bauakademie
+- Besoldung: 
+- Entgelt: TVöD-Bund E 13
+- Ort: 10117 Berlin
+- Arbeitsort: Hybrid
+- Eingestellt: 27.11.2026
+- Frist: 10.01.2027
 
 ## 1516324 – Wissenschaftliche*r Mitarbeiter*in (m/w/d/k. A.)
 
@@ -73,34 +103,4 @@ Sichtbare Treffer: 10
 - Arbeitsort: Hybrid
 - Eingestellt: 26.11.2026
 - Frist: 20.12.2026
-
-## 1515057 – Sachbearbeitung (m/w/d) im Referat "Medienbildung und -beratung" mit dem Schwerpunkt: Medienproduktion
-
-- Arbeitgeber: Landesinstitut Brandenburg für Schule und Lehrkräftebildung (LIBRA)
-- Besoldung: 
-- Entgelt: TV-L E 12
-- Ort: 14974 Ludwigsfelde
-- Arbeitsort: Hybrid
-- Eingestellt: 23.11.2026
-- Frist: 21.12.2026
-
-## 1514806 – Präventions- und Interventionsbegleitung (m/w/d) in der Jugendhilfe im Strafverfahren
-
-- Arbeitgeber: Bezirksamt Steglitz-Zehlendorf von Berlin
-- Besoldung: 
-- Entgelt: TV-L S E 12
-- Ort: 14163 Berlin
-- Arbeitsort: Hybrid
-- Eingestellt: 20.11.2026
-- Frist: 18.12.2026
-
-## 1514425 – Sachgebietsleitung Kita / Jugendförderung (m/w/d)
-
-- Arbeitgeber: Landkreis Barnim
-- Besoldung: 
-- Entgelt: TVöD-VKA E 11
-- Ort: 16225 Eberswalde
-- Arbeitsort: Hybrid
-- Eingestellt: 20.11.2026
-- Frist: 04.12.2026
 

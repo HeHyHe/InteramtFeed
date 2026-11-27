@@ -5,9 +5,48 @@
     "radius_km": 50,
     "query": "(soziologie OR sozialwissenschaft OR sozialwissenschaften OR sozialwissenschaftliches OR medienwissenschaft OR medienwissenschaften OR Kommunikationswissenschaften OR Kommunikationswissenschaft OR Kommunikationswissenschaftliches OR kommunikationswissenschaften OR \"public health\") OR \"sozial- oder wirtschaftswissenschaftliches\""
   },
-  "generated_at": "2026-11-26T15:50:09.823Z",
+  "generated_at": "2026-11-27T15:38:37.115Z",
   "visible_results": 10,
   "jobs": [
+    {
+      "id": "1516781",
+      "employer": "Stiftung Deutsches Historisches Museum",
+      "title": "Studentische Aushilfe (m/w/d) im Fachbereich Kinemathek und Zeughauskino der Abteilung Ausstellungen",
+      "grade": "",
+      "pay": "TVöD-Bund E 3",
+      "location": "10117 Berlin",
+      "distance": "3 km",
+      "workplace": "Vor Ort",
+      "posted": "27.11.2026",
+      "deadline": "17.12.2026",
+      "row_text": "1516781 Stellenausschreibung öffnen | Stiftung Deutsches Historisches Museum | Studentische Aushilfe (m/w/d) im Fachbereich Kinemathek und Zeughauskino der Abteilung Ausstellungen |  | TVöD-Bund E 3 | 10117 Berlin | 3 km | Vor Ort | 27.11.2026 | 17.12.2026"
+    },
+    {
+      "id": "1516695",
+      "employer": "Bezirksamt Treptow-Köpenick von Berlin",
+      "title": "Leitung (m/w/d) Jugendamt",
+      "grade": "B2",
+      "pay": "AT 2",
+      "location": "12489 Berlin",
+      "distance": "12 km",
+      "workplace": "Vor Ort",
+      "posted": "27.11.2026",
+      "deadline": "11.12.2026",
+      "row_text": "1516695 Stellenausschreibung öffnen | Bezirksamt Treptow-Köpenick von Berlin | Leitung (m/w/d) Jugendamt | B2 | AT 2 | 12489 Berlin | 12 km | Vor Ort | 27.11.2026 | 11.12.2026"
+    },
+    {
+      "id": "1516424",
+      "employer": "Bundesstiftung Bauakademie",
+      "title": "Transformationsmanager*in (m/w/d) Digitalisierung und Automatisierung",
+      "grade": "",
+      "pay": "TVöD-Bund E 13",
+      "location": "10117 Berlin",
+      "distance": "3 km",
+      "workplace": "Hybrid",
+      "posted": "27.11.2026",
+      "deadline": "10.01.2027",
+      "row_text": "1516424 Stellenausschreibung öffnen | Bundesstiftung Bauakademie | Transformationsmanager*in (m/w/d) Digitalisierung und Automatisierung |  | TVöD-Bund E 13 | 10117 Berlin | 3 km | Hybrid | 27.11.2026 | 10.01.2027"
+    },
     {
       "id": "1516324",
       "employer": "Dt. Zentrum f. lntegr.- u. Migrat.forsch. (DeZIM) e.V.",
@@ -98,45 +137,6 @@
       "posted": "26.11.2026",
       "deadline": "20.12.2026",
       "row_text": "1515190 Stellenausschreibung öffnen | Robert Koch-Institut | Open Data Koordination Fach- und Forschungsdatenmanagement (d/m/w) |  | TVöD-Bund E 13 | 13353 Berlin | 7 km | Hybrid | 26.11.2026 | 20.12.2026"
-    },
-    {
-      "id": "1515057",
-      "employer": "Landesinstitut Brandenburg für Schule und Lehrkräftebildung (LIBRA)",
-      "title": "Sachbearbeitung (m/w/d) im Referat \"Medienbildung und -beratung\" mit dem Schwerpunkt: Medienproduktion",
-      "grade": "",
-      "pay": "TV-L E 12",
-      "location": "14974 Ludwigsfelde",
-      "distance": "25 km",
-      "workplace": "Hybrid",
-      "posted": "23.11.2026",
-      "deadline": "21.12.2026",
-      "row_text": "1515057 Stellenausschreibung öffnen | Landesinstitut Brandenburg für Schule und Lehrkräftebildung (LIBRA) | Sachbearbeitung (m/w/d) im Referat \"Medienbildung und -beratung\" mit dem Schwerpunkt: Medienproduktion |  | TV-L E 12 | 14974 Ludwigsfelde | 25 km | Hybrid | 23.11.2026 | 21.12.2026"
-    },
-    {
-      "id": "1514806",
-      "employer": "Bezirksamt Steglitz-Zehlendorf von Berlin",
-      "title": "Präventions- und Interventionsbegleitung (m/w/d) in der Jugendhilfe im Strafverfahren",
-      "grade": "",
-      "pay": "TV-L S E 12",
-      "location": "14163 Berlin",
-      "distance": "13 km",
-      "workplace": "Hybrid",
-      "posted": "20.11.2026",
-      "deadline": "18.12.2026",
-      "row_text": "1514806 Stellenausschreibung öffnen | Bezirksamt Steglitz-Zehlendorf von Berlin | Präventions- und Interventionsbegleitung (m/w/d) in der Jugendhilfe im Strafverfahren |  | TV-L S E 12 | 14163 Berlin | 13 km | Hybrid | 20.11.2026 | 18.12.2026"
-    },
-    {
-      "id": "1514425",
-      "employer": "Landkreis Barnim",
-      "title": "Sachgebietsleitung Kita / Jugendförderung (m/w/d)",
-      "grade": "",
-      "pay": "TVöD-VKA E 11",
-      "location": "16225 Eberswalde",
-      "distance": "46 km",
-      "workplace": "Hybrid",
-      "posted": "20.11.2026",
-      "deadline": "04.12.2026",
-      "row_text": "1514425 Stellenausschreibung öffnen | Landkreis Barnim | Sachgebietsleitung Kita / Jugendförderung (m/w/d) |  | TVöD-VKA E 11 | 16225 Eberswalde | 46 km | Hybrid | 20.11.2026 | 04.12.2026"
     }
   ]
 }
